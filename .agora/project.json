@@ -1,0 +1,8 @@
+{
+  "projectId": "2akMipxjG",
+  "projectName": "interview-pilot",
+  "region": "global",
+  "template": "android",
+  "scenario": "voice-agent",
+  "envPath": "server/.env.local"
+}
